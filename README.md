@@ -19,6 +19,6 @@ This is a presentation concept, not an approved official website. Confirm every 
 ## Contact details currently used
 - Address: Travesía Santo Domingo, 8, 19001 Guadalajara, Spain
 - Phone: +34 685 61 05 60
-- Email: esteticamica8@gmail.com
+- Email de contacto y destinatario para enviar la propuesta de la web: esteticamica8@gmail.com
 
 The site is static and needs no build step.
