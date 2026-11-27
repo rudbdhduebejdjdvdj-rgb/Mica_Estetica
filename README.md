@@ -7,8 +7,11 @@ Static website concept for Mica Estética Integral Avanzada in Guadalajara, Spai
 - Responsive layout, accessible navigation and local SVG/WebP assets
 - No analytics, cookies, external booking API or form submission configured
 
-## Preview
-Open index.html locally or enable GitHub Pages from Settings → Pages → Deploy from a branch → main / root.
+## Deploy with GitHub Pages
+1. Open the repository Settings → Pages.
+2. Under Build and deployment, choose GitHub Actions as the source.
+3. The workflow in .github/workflows/pages.yml deploys the site on pushes to main.
+4. Open the Pages URL shown in the repository settings after the first successful deployment.
 
 ## Before publishing for the business
 This is a presentation concept, not an approved official website. Confirm every service, device, opening hour and price with the business. The generated spa photo is illustrative and is not a photograph of Mica's premises; replace it with photographs supplied and authorized by the owner. Confirm the preferred booking destination and social accounts. Add legal/privacy information before collecting personal data.
@@ -18,5 +21,4 @@ This is a presentation concept, not an approved official website. Confirm every 
 - Phone: +34 685 61 05 60
 - Email: esteticamica8@gmail.com
 
-## Deploy
-Enable GitHub Pages on the main branch, root folder. The site is static and needs no build step.
+The site is static and needs no build step.
